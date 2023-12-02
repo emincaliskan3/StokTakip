@@ -111,7 +111,7 @@
             // 
             // btnGeri
             // 
-            this.btnGeri.Location = new System.Drawing.Point(255, 293);
+            this.btnGeri.Location = new System.Drawing.Point(253, 295);
             this.btnGeri.Name = "btnGeri";
             this.btnGeri.Size = new System.Drawing.Size(75, 23);
             this.btnGeri.TabIndex = 11;
@@ -121,7 +121,7 @@
             // 
             // btnSil
             // 
-            this.btnSil.Location = new System.Drawing.Point(173, 294);
+            this.btnSil.Location = new System.Drawing.Point(172, 295);
             this.btnSil.Name = "btnSil";
             this.btnSil.Size = new System.Drawing.Size(75, 23);
             this.btnSil.TabIndex = 10;
